@@ -27,6 +27,6 @@ public class linkedlist {
         }
 
         // Menampilkan LinkedList Hewan setelah penghapusan
-        System.out.println("LinkedList Hewan setelah penghapusan: "+hewan);
+        System.out.println("Hewan yang dihapus penghapusan: "+hewan);
     }
 }
