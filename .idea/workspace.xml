@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3610e4d-1cb0-48a9-a7cb-ece42e720f75" name="Changes" comment="">
+    <list default="true" id="d3610e4d-1cb0-48a9-a7cb-ece42e720f75" name="Changes" comment="git@github.com:Ananta-Pirdhaus/Latihan1Praktikum2-Strukdat.git">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Latihan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Latihan1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Latihan1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,10 +37,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.linkedlist">
     <configuration name="Kegiatan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kegiatan1" />
       <module name="Praktikum2-Strukdat" />
@@ -45,8 +49,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+      <module name="Praktikum2-Strukdat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist" />
+      <module name="Praktikum2-Strukdat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.linkedlist" />
+        <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.Kegiatan1" />
       </list>
     </recent_temporary>
@@ -60,6 +80,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679585174866</updated>
     </task>
+    <task id="LOCAL-00001" summary="git@github.com:Ananta-Pirdhaus/Latihan1Praktikum2-Strukdat.git">
+      <created>1679620068590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679620068591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git@github.com:Ananta-Pirdhaus/Latihan1Praktikum2-Strukdat.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git@github.com:Ananta-Pirdhaus/Latihan1Praktikum2-Strukdat.git" />
   </component>
 </project>
